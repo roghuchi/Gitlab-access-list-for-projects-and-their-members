@@ -14,4 +14,4 @@ Required modules
 # Run
 Use the following command to run:
 
-python3 projectslist.py
+<code>python3 projectslist.py</code>
